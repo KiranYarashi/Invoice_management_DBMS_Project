@@ -41,6 +41,7 @@ This is a Django-based Invoice Management System that allows users to manage inv
 
 5. Apply the migrations:
     ```sh
+    python manage.py makemigrations
     python manage.py migrate
     ```
 
